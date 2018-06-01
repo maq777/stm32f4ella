@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "stella\\src"
+		},
+		{
+			"path": "stm32l4\\Src"
+		},
+		{
+			"path": "output"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,31 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
+{
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "src/**/*.o": true
+    },
+    "editor.trimAutoWhitespace": true,
+    "editor.useTabStops": false,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "files.insertFinalNewline": true,
+    "files.associations": {
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "atomic": "cpp",
+        "deque": "cpp",
+        "ios": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "stdexcept": "cpp"
+    }
+}

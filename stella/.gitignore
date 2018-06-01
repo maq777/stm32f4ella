@@ -1,0 +1,12 @@
+config.log
+config.mak
+src/**/*/.deps
+src/**/*.o
+stella
+*.diff
+project.xcworkspace/
+xcuserdata/
+build/
+src/macosx/M6502.ins
+*.dSYM
+.vscode/c_cpp_properties.json
